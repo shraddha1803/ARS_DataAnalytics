@@ -1,0 +1,163 @@
+﻿Category,Item,Clothing,Price
+headwear,sun hats,1,3
+headwear,beanies,1,3
+headwear,baseball caps,1,3
+hoodies_coats,Jackets,1,5
+hoodies_coats,windbreakers,1,5
+hoodies_coats,sweatshirts,1,5
+hoodies_coats,Hoodies,1,5
+hoodies_coats,UCD hoodies,1,10
+hoodies_coats,blazers,1,10
+hoodies_coats,coats (General),1,10
+hoodies_coats,rain coat,1,10
+short_sleeve_tops,athletic tops,1,3
+short_sleeve_tops,tank-top,1,3
+short_sleeve_tops,t-shirt,1,3
+short_sleeve_tops,UCD t-shirts,1,5
+short_sleeve_tops,vests,1,5
+long_sleeves_blouses,long sleeve shirts,1,3
+long_sleeves_blouses,sweaters/cardigans,1,5
+long_sleeves_blouses,flannels,1,5
+long_sleeves_blouses,blouses,1,5
+skirts_shorts_dresses,short skirts,1,3
+skirts_shorts_dresses,shorts,1,3
+skirts_shorts_dresses,running/ athletic shorts,1,3
+skirts_shorts_dresses,long skirts,1,5
+skirts_shorts_dresses,dresses (all),1,5
+pants,slacks,1,5
+pants,jeans,1,5
+pants,sweatpants,1,5
+pants,leggings,1,5
+pants,UCD bottoms,1,10
+shoes,sandals,1,5
+shoes,sneakers,1,5
+shoes,running shoes,1,5
+shoes,flats,1,5
+shoes,boots,1,10
+shoes,heels,1,10
+shoes,dress shoes,1,10
+accessories,vinyl/canvas bags,1,3
+accessories,gloves (pair),1,3
+accessories,belts,1,3
+accessories,scarves,1,3
+accessories,glasses (clear/prescription),1,3
+accessories,sunglasses,1,5
+accessories,lunch bags,1,5
+accessories,wallets,1,5
+accessories,handbags,1,5
+accessories,umbrellas,1,5
+jewelry,bracelet,1,3
+jewelry,earring (pair),1,3
+jewelry,rings,1,5
+jewelry,necklaces,1,5
+school_office_supplies,binder clips,0,0.5
+school_office_supplies,greeting cards,0,0.5
+school_office_supplies,highlighters,0,0.5
+school_office_supplies,button pins,0,0.5
+school_office_supplies,manila folder,0,0.5
+school_office_supplies,markers,0,0.5
+school_office_supplies,desk file trays,0,0.5
+school_office_supplies,paper clips,0,0.5
+school_office_supplies,(color) pencils,0,0.5
+school_office_supplies,normal pencils,0,0.5
+school_office_supplies,folder tabs,0,0.5
+school_office_supplies,folders,0,0.5
+school_office_supplies,post-its,0,0.5
+school_office_supplies,pencil sharpener,0,0.5
+school_office_supplies,rulers,0,0.5
+school_office_supplies,safety pin,0,0.5
+school_office_supplies,scantrons,0,0.5
+school_office_supplies,staplers,0,0.5
+school_office_supplies,staples (box or strip),0,0.5
+school_office_supplies,envelopes,0,0.5
+school_office_supplies,to do lists,0,0.5
+school_office_supplies,pens,0,0.5
+school_office_supplies,protractors,0,0.5
+school_office_supplies,correction tape,0,1
+school_office_supplies,glue sticks,0,1
+school_office_supplies,art paper (pack),0,1
+school_office_supplies,binders,0,1
+school_office_supplies,letter-size notebooks,0,1
+school_office_supplies,(mechanical) pencils ,0,1
+school_office_supplies,pencil case,0,1
+school_office_supplies,erasers,0,1
+school_office_supplies,stickers (pack),0,1
+school_office_supplies,rubber bands,0,1
+school_office_supplies,notepad,0,1
+school_office_supplies,clipboards,0,1
+school_office_supplies,notebook,0,3
+school_office_supplies,print paper (pack),0,3
+school_office_supplies,display frame,0,3
+school_office_supplies,hole punch,0,3
+books_print_media,magazines,0,1
+books_print_media,audio book,0,1
+books_print_media,comic books,0,2
+books_print_media,journal (empty),0,2
+books_print_media,sudoku/crossword books/coloring books,0,2
+books_print_media,paperback book,0,2
+books_print_media,hardcover book,0,3
+books_print_media,textbooks,0,10
+arts_crafts,art paper (pack),0,0.5
+arts_crafts,miscellaneous craft,0,0.5
+arts_crafts,beads - handful,0,0.5
+arts_crafts,candles,0,0.5
+arts_crafts,zippers,0,0.5
+arts_crafts,cardboard & artboard (all sizes),0,0.5
+arts_crafts,corkboard pieces and boards,0,0.5
+arts_crafts,fabric swatches,0,0.5
+arts_crafts,photo slides,0,0.5
+arts_crafts,glitter (container),0,0.5
+arts_crafts,paint brushes,0,1
+arts_crafts,paints,0,1
+arts_crafts,photo slide carousel,0,1
+arts_crafts,sketchbooks,0,1
+arts_crafts,yarn (per ball),0,1
+arts_crafts,vinyl banners (roll),0,2
+arts_crafts,canvases (per roll),0,2
+games_entertainment,CD's,0,1
+games_entertainment,card games,0,1
+games_entertainment,cassette tapes,0,1
+games_entertainment,computer games,0,1
+games_entertainment,DVD's,0,1
+games_entertainment,VHS tapes,0,1
+games_entertainment,Vinyl Records,0,1
+games_entertainment,board games,0,5
+games_entertainment,nintendo/other games,0,5
+electronics,usb thumb drive,0,3
+electronics,keyboard covers,0,3
+electronics,phone case,0,3
+electronics,headphones,0,3
+electronics,mouse,0,3
+electronics,phone charger,0,3
+electronics,APPLE phone charger,0,5
+electronics,portable speaker,0,5
+electronics,calculators (non-graphing),0,5
+electronics,laptop (computer) case,0,5
+electronics,external hard drive,0,5
+electronics,ipad case,0,5
+electronics,PC (computer) laptop charger,0,5
+electronics,APPLE (computer) laptop charger,0,10
+electronics,graphing calc,0,10
+household_goods,magnets,0,0.5
+household_goods,silverware (a piece),0,0.5
+household_goods,tupperware,0,0.5
+household_goods,miscellaneous items,0,1
+household_goods,water bottles,0,1
+household_goods,dishware,0,1
+household_goods,mason/glass jar,0,1
+household_goods,oven mitts,0,1
+household_goods,cooking/serving utensils,0,1
+household_goods,photo/art frames,0,5
+household_goods,vase,0,5
+household_goods,pots/pans,0,5
+household_goods,"racks/organization (towel, etc.)",0,5
+household_goods,storage containers,0,5
+sporting_goods,frisbee,0,1
+sporting_goods,Ball for any sport,0,1
+sporting_goods,miscellaneous bike items,0,5
+sporting_goods,bike basket,0,5
+sporting_goods,bike helmet,0,5
+sporting_goods,combination lock for bike,0,5
+sporting_goods,U bike lock,0,10
+sporting_goods,bike seat,0,10
+sporting_goods,tennis rackets,0,10
