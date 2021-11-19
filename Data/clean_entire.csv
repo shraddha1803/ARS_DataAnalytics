@@ -1,0 +1,169 @@
+,Date,Item,Total Price,Category
+0,9/24/21,jeans,$5.00 ,pants
+1,9/24/21,boutique item,$6.00 ,boutique item
+2,9/24/21,boutique item,$7.00 ,boutique item
+3,9/24/21,flannels,$5.00 ,long_sleeves_blouses
+4,9/24/21,short_sleeve_tops,$3.00 ,short_sleeve_tops
+5,9/24/21,short_sleeve_tops,$3.00 ,short_sleeve_tops
+6,9/24/21,pants,$5.00 ,pants
+7,9/24/21,t-shirt,$3.00 ,short_sleeve_tops
+8,9/24/21,boutique item,$6.00 ,boutique item
+9,9/24/21,dresses (all),$6.00 ,skirts_shorts_dresses
+10,9/24/21,school_office_supplies,$5.00 ,school_office_supplies
+11,9/24/21,shorts,$3.00 ,skirts_shorts_dresses
+12,9/24/21,handbags,$5.00 ,accessories
+13,9/24/21,earring (pair),$3.00 ,jewelry
+14,9/24/21,earring (pair),$3.00 ,jewelry
+15,9/24/21,notebook,$3.00 ,school_office_supplies
+16,10/1/21,short skirts,$3.00 ,skirts_shorts_dresses
+17,10/1/21,blouses,$5.00 ,long_sleeves_blouses
+18,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
+19,10/1/21,earring (pair),$3.00 ,jewelry
+20,10/1/21,blouses,$5.00 ,long_sleeves_blouses
+21,10/1/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+22,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
+23,10/1/21,tank-top,$3.00 ,short_sleeve_tops
+24,10/1/21,shorts,$3.00 ,skirts_shorts_dresses
+25,10/1/21,blouses,$5.00 ,long_sleeves_blouses
+26,10/1/21,boutique item,$11.00 ,boutique item
+27,10/1/21,notebook,$1.00 ,school_office_supplies
+28,10/1/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+29,10/1/21,boutique item,$7.00 ,boutique item
+30,10/1/21,long skirts,$5.00 ,skirts_shorts_dresses
+31,10/1/21,long skirts,$5.00 ,skirts_shorts_dresses
+32,10/1/21,sunglasses,$2.50 ,accessories
+33,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
+34,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
+35,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
+36,10/1/21,pants,$5.00 ,pants
+37,10/1/21,flannels,$5.00 ,long_sleeves_blouses
+38,10/1/21,flannels,$5.00 ,long_sleeves_blouses
+39,10/1/21,flannels,$5.00 ,long_sleeves_blouses
+40,10/1/21,boutique item,$6.00 ,boutique item
+41,10/1/21,dresses (all),$5.00 ,skirts_shorts_dresses
+42,10/1/21,notepad,$1.00 ,school_office_supplies
+43,10/1/21,blouses,$2.50 ,long_sleeves_blouses
+44,10/1/21,boutique item,$4.00 ,boutique item
+45,10/1/21,erasers,$1.00 ,school_office_supplies
+46,10/1/21,water bottles,$1.00 ,household_goods
+47,10/1/21,water bottles,$1.00 ,household_goods
+48,10/1/21,pencil sharpener,$5.00 ,school_office_supplies
+49,10/1/21,highlighters,$2.00 ,school_office_supplies
+50,10/1/21,water bottles,$1.00 ,household_goods
+51,10/1/21,boutique item,$8.00 ,boutique item
+52,10/1/21,boutique item,$15.00 ,boutique item
+53,10/1/21,boutique item,$5.00 ,boutique item
+54,10/1/21,t-shirt,$1.50 ,short_sleeve_tops
+55,10/1/21,water bottles,$0.50 ,household_goods
+56,10/1/21,earring (pair),$1.50 ,jewelry
+57,10/1/21,UCD t-shirts,$5.00 ,short_sleeve_tops
+58,10/1/21,boutique item,$6.00 ,boutique item
+59,10/4/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+60,10/4/21,dresses (all),$5.00 ,skirts_shorts_dresses
+61,10/4/21,dresses (all),$5.00 ,skirts_shorts_dresses
+62,10/4/21,dresses (all),$5.00 ,skirts_shorts_dresses
+63,10/4/21,dresses (all),$5.00 ,skirts_shorts_dresses
+64,10/6/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+65,10/6/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+66,10/6/21,jeans,$5.00 ,pants
+67,10/6/21,shorts,$3.00 ,skirts_shorts_dresses
+68,10/6/21,shorts,$3.00 ,skirts_shorts_dresses
+69,10/6/21,shorts,$3.00 ,skirts_shorts_dresses
+70,10/6/21,blouses,$5.00 ,long_sleeves_blouses
+71,10/6/21,Jackets,$11.00 ,hoodies_coats
+72,10/6/21,shorts,$3.00 ,skirts_shorts_dresses
+73,10/6/21,flannels,$5.00 ,long_sleeves_blouses
+74,10/6/21,slacks,$5.00 ,pants
+75,10/8/21,notebook,$3.00 ,school_office_supplies
+76,10/8/21,shorts,$3.00 ,skirts_shorts_dresses
+77,10/8/21,t-shirt,$3.00 ,short_sleeve_tops
+78,10/8/21,earring (pair),$3.00 ,jewelry
+79,10/8/21,boutique item,$13.00 ,boutique item
+80,10/8/21,long sleeve shirts,$5.00 ,long_sleeves_blouses
+81,10/8/21,t-shirt,$3.00 ,short_sleeve_tops
+82,10/8/21,t-shirt,$3.00 ,short_sleeve_tops
+83,10/8/21,notebook,$3.00 ,school_office_supplies
+84,10/8/21,dresses (all),$5.00 ,skirts_shorts_dresses
+85,10/8/21,boutique item,$6.00 ,boutique item
+86,10/8/21,long sleeve shirts,$5.00 ,long_sleeves_blouses
+87,10/8/21,long sleeve shirts,$5.00 ,long_sleeves_blouses
+88,10/8/21,boutique item,$7.00 ,boutique item
+89,10/8/21,vase,$5.00 ,household_goods
+90,10/8/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+91,10/8/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+92,10/8/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+93,10/8/21,boutique item,$5.00 ,boutique item
+94,10/8/21,boutique item,$6.00 ,boutique item
+95,10/8/21,jeans,$5.00 ,pants
+96,10/8/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+97,10/8/21,t-shirt,$3.00 ,short_sleeve_tops
+98,10/8/21,long sleeve shirts,$5.00 ,long_sleeves_blouses
+99,10/8/21,notebook,$3.00 ,school_office_supplies
+100,10/8/21,shorts,$3.00 ,skirts_shorts_dresses
+101,10/8/21,sun hats,$3.00 ,headwear
+102,10/8/21,water bottles,$1.00 ,household_goods
+103,10/8/21,glue sticks,$2.00 ,school_office_supplies
+104,10/8/21,household_goods,$2.00 ,household_goods
+105,10/8/21,pants,$5.00 ,pants
+106,10/8/21,water bottles,$1.00 ,household_goods
+107,10/8/21,tank-top,$3.00 ,short_sleeve_tops
+108,10/11/21,boutique item,$9.00 ,boutique item
+109,10/13/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+110,10/13/21,flannels,$8.00 ,long_sleeves_blouses
+111,10/13/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+112,10/13/21,flannels,$5.00 ,long_sleeves_blouses
+113,10/13/21,dresses (all),$8.00 ,skirts_shorts_dresses
+114,10/13/21,long sleeve shirts,$6.00 ,long_sleeves_blouses
+115,10/13/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+116,10/13/21,shorts,$3.00 ,skirts_shorts_dresses
+117,10/13/21,heels,$10.00 ,shoes
+118,10/13/21,sneakers,$5.00 ,shoes
+119,10/13/21,sweaters/cardigans,$7.00 ,long_sleeves_blouses
+120,10/13/21,accessories,$2.00 ,accessories
+121,10/13/21,short_sleeve_tops,$6.00 ,short_sleeve_tops
+122,10/13/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+123,10/13/21,water bottles,$1.00 ,household_goods
+124,10/13/21,water bottles,$1.00 ,household_goods
+125,10/13/21,earring (pair),$3.00 ,jewelry
+126,10/13/21,pants,$5.00 ,pants
+127,10/13/21,tank-top,$7.00 ,short_sleeve_tops
+128,10/13/21,dresses (all),$6.00 ,skirts_shorts_dresses
+129,10/13/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+130,10/13/21,boutique item,$8.00 ,boutique item
+131,10/13/21,leggings,$5.00 ,pants
+132,10/13/21,t-shirt,$3.00 ,short_sleeve_tops
+133,10/13/21,slacks,$5.00 ,pants
+134,10/13/21,dresses (all),$5.00 ,skirts_shorts_dresses
+135,10/13/21,pants,$5.00 ,pants
+136,10/13/21,shorts,$3.00 ,skirts_shorts_dresses
+137,10/15/21,earring (pair),$3.00 ,jewelry
+138,10/15/21,earring (pair),$3.00 ,jewelry
+139,10/15/21,shoes,$10.00 ,shoes
+140,10/15/21,earring (pair),$3.00 ,jewelry
+141,10/15/21,boutique item,$6.00 ,boutique item
+142,10/15/21,water bottles,$1.00 ,household_goods
+143,10/15/21,water bottles,$1.00 ,household_goods
+144,10/15/21,shoes,$10.00 ,shoes
+145,10/18/21,water bottles,$2.00 ,household_goods
+146,10/19/21,water bottles,$2.00 ,household_goods
+147,10/18/21,shorts,$3.00 ,skirts_shorts_dresses
+148,10/18/21,boutique item,$10.00 ,boutique item
+149,10/18/21,boutique item,$7.00 ,boutique item
+150,10/27/21,water bottles,$1.00 ,household_goods
+151,10/27/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+152,10/27/21,windbreakers,$5.00 ,hoodies_coats
+153,10/27/21,tank-top,$3.00 ,short_sleeve_tops
+154,10/27/21,handbags,$5.00 ,accessories
+155,10/27/21,water bottles,$1.00 ,household_goods
+156,10/27/21,tank-top,$3.00 ,short_sleeve_tops
+157,10/27/21,boutique item,$15.00 ,boutique item
+158,10/27/21,notebook,$1.00 ,school_office_supplies
+159,10/27/21,boutique item,$7.00 ,boutique item
+160,10/27/21,t-shirt,$3.00 ,short_sleeve_tops
+161,10/27/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+162,10/27/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
+163,10/27/21,jeans,$5.00 ,pants
+164,10/27/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
+165,10/27/21,sunglasses,$5.00 ,accessories
+166,10/27/21,dresses (all),$5.00 ,skirts_shorts_dresses
+167,10/27/21,boutique item,$5.00 ,boutique item
