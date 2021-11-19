@@ -2,7 +2,7 @@
 0,9/24/21,jeans,$5.00 ,pants
 1,9/24/21,boutique item,$6.00 ,boutique item
 2,9/24/21,boutique item,$7.00 ,boutique item
-3,9/24/21,flannels,$5.00 ,long_sleeves_blouses
+3,9/24/21,button-down work shirt,$5.00 ,long_sleeves_blouses
 4,9/24/21,short_sleeve_tops,$3.00 ,short_sleeve_tops
 5,9/24/21,short_sleeve_tops,$3.00 ,short_sleeve_tops
 6,9/24/21,pants,$5.00 ,pants
@@ -36,9 +36,9 @@
 34,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
 35,10/1/21,t-shirt,$3.00 ,short_sleeve_tops
 36,10/1/21,pants,$5.00 ,pants
-37,10/1/21,flannels,$5.00 ,long_sleeves_blouses
-38,10/1/21,flannels,$5.00 ,long_sleeves_blouses
-39,10/1/21,flannels,$5.00 ,long_sleeves_blouses
+37,10/1/21,button-down work shirt,$5.00 ,long_sleeves_blouses
+38,10/1/21,button-down work shirt,$5.00 ,long_sleeves_blouses
+39,10/1/21,button-down work shirt,$5.00 ,long_sleeves_blouses
 40,10/1/21,boutique item,$6.00 ,boutique item
 41,10/1/21,dresses (all),$5.00 ,skirts_shorts_dresses
 42,10/1/21,notepad,$1.00 ,school_office_supplies
@@ -72,7 +72,7 @@
 70,10/6/21,blouses,$5.00 ,long_sleeves_blouses
 71,10/6/21,Jackets,$11.00 ,hoodies_coats
 72,10/6/21,shorts,$3.00 ,skirts_shorts_dresses
-73,10/6/21,flannels,$5.00 ,long_sleeves_blouses
+73,10/6/21,button-down work shirt,$5.00 ,long_sleeves_blouses
 74,10/6/21,slacks,$5.00 ,pants
 75,10/8/21,notebook,$3.00 ,school_office_supplies
 76,10/8/21,shorts,$3.00 ,skirts_shorts_dresses
@@ -109,9 +109,9 @@
 107,10/8/21,tank-top,$3.00 ,short_sleeve_tops
 108,10/11/21,boutique item,$9.00 ,boutique item
 109,10/13/21,sweaters/cardigans,$5.00 ,long_sleeves_blouses
-110,10/13/21,flannels,$8.00 ,long_sleeves_blouses
+110,10/13/21,button-down work shirt,$8.00 ,long_sleeves_blouses
 111,10/13/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
-112,10/13/21,flannels,$5.00 ,long_sleeves_blouses
+112,10/13/21,button-down work shirt,$5.00 ,long_sleeves_blouses
 113,10/13/21,dresses (all),$8.00 ,skirts_shorts_dresses
 114,10/13/21,long sleeve shirts,$6.00 ,long_sleeves_blouses
 115,10/13/21,long sleeve shirts,$3.00 ,long_sleeves_blouses
