@@ -10,4 +10,4 @@ The **Data-Cleaning** folder contains the Jupyter Notebook we used to process th
 The **Day-of-Week-Analysis** looks at the sales data faceted by date, weekday, and item category (clothing, school supplies, etc.)
 There is also a comparison plot between the master price list prices of items and the actual prices they were sold for.
 
-![alt text](https://aggiereuse.ucdavis.edu/wp-content/uploads/2020/06/aggiereuse-alternate.png | width=100)
+![alt text](https://aggiereuse.ucdavis.edu/wp-content/uploads/2020/06/aggiereuse-alternate.png)
