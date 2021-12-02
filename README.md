@@ -1,5 +1,7 @@
 # ARS_DataAnalytics
 
+![alt text](https://aggiereuse.ucdavis.edu/wp-content/uploads/2020/06/aggiereuse-alternate.png)
+
 In this repository we conduct some exploratory data analysis and visualization on the sales data from the Aggie Reuse Store at UC Davis. 
 The data was collected at pop-up thrift store sales during Fall Quarter 2021.  
 
