@@ -15,15 +15,25 @@ ui <- dashboardPage(
     dashboardHeader(title = "Aggie Reuse Store Dashboard"),
     dashboardSidebar(
         sidebarMenu(
-            menuItem("Items", tabName = "dashboard", icon = icon("store")),
-            menuItem("Social Media", tabName = "social", icon = icon("thumbs-up")),
-            menuItem("Overview", tabName = "overview", icon = icon("user"))
+            menuItem("Overview", tabName = "overview", icon = icon("user")),
+            menuItem("Items", tabName = "items", icon = icon("store")),
+            menuItem("Social Media", tabName = "social", icon = icon("thumbs-up"))
         )
     ),
     dashboardBody(
         tabItems(
             # First tab content
-            tabItem(tabName = "dashboard",
+            tabItem(tabName = "overview",
+                    h2("Overview")
+            ),
+            
+            # Second tab content
+            tabItem(tabName = "social",
+                    h2("Social Media")
+            ),
+            
+            #Third tab content
+            tabItem(tabName = "items",
                     h2("Items Sold"),
                     fluidRow(
                         box(plotOutput("plot1", height = 250)),
@@ -33,16 +43,6 @@ ui <- dashboardPage(
                             sliderInput("slider", "Number of observations:", 1, 100, 50)
                         )
                     )
-            ),
-            
-            # Second tab content
-            tabItem(tabName = "social",
-                    h2("Social Media")
-            ),
-            
-            #Third tab content
-            tabItem(tabName = "overview",
-                    h2("Overview")
             )
             
         )
