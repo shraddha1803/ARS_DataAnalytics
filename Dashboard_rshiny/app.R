@@ -42,7 +42,8 @@ ui <- dashboardPage(
                             title = "Controls",
                             sliderInput("slider", "Number of observations:", 1, 100, 50)
                         )
-                    )
+                    ),
+                    DT::dataTableOutput("table")
             )
             
         )
@@ -59,6 +60,11 @@ server <- function(input, output) {
         data <- histdata[seq_len(input$slider)]
         hist(data)
     })
+    
+    output$table <- DT::renderDataTable(DT::datatable({
+        data <- clean_entire
+        data
+    }))
 }
 
 shinyApp(ui, server)
